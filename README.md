@@ -12,7 +12,7 @@
 - index.html: Contém a estrutura básica da landing page.
 - style.css: Arquivo CSS gerado a partir do SASS.
 - style.scss: Arquivo principal SASS, contendo estilos customizados.
-- img/: Diretório contendo imagens utilizadas na landing page.
+- assets/: Diretório contendo imagens utilizadas na landing page.
 
 ### Como Usar
 
